@@ -7,7 +7,7 @@ I'm a game server developer and scripter based in **Indonesia** 🇮🇩. I spec
 I am currently available for freelance projects, commissions, and server development roles. If you are looking to hire, feel free to reach out to me!
 
 ### 📫 Get in Touch
-*   **Discord:** DM me at `freshergaming`
+*   **Discord:** DM me at `ruifresher`
 
 ### 🛠️ What I Do
 
@@ -35,7 +35,7 @@ I am currently available for freelance projects, commissions, and server develop
 我目前正在接单，可参与自由职业项目、商业定制以及服务器开发工作。如果您有合作意向，欢迎随时联系我！
 
 ### 📫 联系方式
-*   **Discord:** 请私信 `freshergaming`
+*   **Discord:** 请私信 `ruifresher`
 
 ### 🛠️ 我的开发领域
 
